@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**.\
+
+Saya cuma orang biasa yang sedang belajar tentang Pemograman Back-End~
