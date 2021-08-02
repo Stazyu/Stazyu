@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
+### Halo semua 👋 
 
 Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**.
 
