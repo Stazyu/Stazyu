@@ -1,25 +1,25 @@
 <!-- ### Hi there 👋 -->
 
-<!--
-**Stazyu/Stazyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Wahyu HP card name](https://cardivo.vercel.app/api?name=Wahyu%20Hidayataulloh%20Pamungkas&description=Hi,%20i%27m%20a%20newbie%20in %20back%20end%20web%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/87377496?s=400&u=7ca99bd2bf13235737403b99fb1dfe77388c7d2d&v=4&backgroundColor=%23ecf0f1&instagram=wahyuhp57&linkedin=Wahyu%20Hidayatulloh%20Pamungkas&github=Stazyu&twitter=Wahyuhp14&pattern=leaf&colorPattern=%23eaeaea)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- -->
+### Welcome 👋
 
-### Halo semua 👋 
+<!-- Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**. -->
+Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 18 y.o Coder
 
-Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**.
+- 🔭 I’m currently working on Home🏠
 
-Saya cuma orang biasa yang sedang belajar tentang Pemograman di bagian Back-End~
+- 🌱 I Can Codes in :
+  - HTML 5
+  - CSS 3
+  - Javascript
+
+
+- 📫 How to reach me: Instagram
+- ⚡ Fun fact: Entah :v
+
 
 <p align="left">
 <a href="https://github.com/gilangadhan">
