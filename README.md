@@ -20,6 +20,12 @@ Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 18 y.o Co
 
 - 📫 How to reach me: Instagram
 - ⚡ Fun fact: Entah :v
+<br/>
+
+### Now Playing 🎧
+
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21monzltkv6o4miy6e4ks6v7y)
+<br/>
 
 
 <p align="left">
