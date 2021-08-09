@@ -15,6 +15,7 @@ Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 18 y.o Co
   - HTML 5
   - CSS 3
   - Javascript
+  - NodeJS
 
 
 - 📫 How to reach me: Instagram
