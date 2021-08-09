@@ -27,9 +27,12 @@ Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 18 y.o Co
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/21monzltkv6o4miy6e4ks6v7y)
 <br/>
 
+## 🔥 Streak Stats
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stazyu&theme=algolia" alt="stazyu" /></p>
 
+## 📄 Github Stats
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/stazyu">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Stazyu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Stazyu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
