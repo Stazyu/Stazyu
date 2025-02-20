@@ -7,7 +7,7 @@
 ### Welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!-- Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**. -->
-Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 20 y.o Coder
+Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 22 y.o Coder
 
 - 🔭 I’m currently working on Home🏠
 
@@ -19,7 +19,7 @@ Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 20 y.o Co
 
 
 - 📫 How to reach me: Instagram
-- ⚡ Fun fact: Entah :v
+- ⚡ Fun fact: -
 <br/>
 
 ### Now Playing 🎧
