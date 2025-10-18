@@ -1,13 +1,13 @@
 <!-- ### Hi there 👋 -->
 
-![card name](https://cardivo.vercel.app/api?name=Wahyu%20Hidayatulloh%20Pamungkas&description=Hi,%20I%27m%20Newbie%20in%20back%20end%20web%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/87377496?s=400&u=7ca99bd2bf13235737403b99fb1dfe77388c7d2d&v=4&backgroundColor=%23ecf0f1&instagram=wahyuhp57&linkedin=Wahyu%20Hidayatulloh%20Pamungkas&github=Stazyu&twitter=Wahyuhp14&pattern=leaf&colorPattern=%23eaeaea)
+![card name](https://cardivo.vercel.app/api?name=Wahyu%20Hidayatulloh%20Pamungkas&description=Hi,%20I%27m%20back%20end%20web%20developer%20and%20i%27m%2022%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/87377496?s=400&u=7ca99bd2bf13235737403b99fb1dfe77388c7d2d&v=4&backgroundColor=%23ecf0f1&instagram=wahyuhp57&linkedin=Wahyu%20Hidayatulloh%20Pamungkas&github=Stazyu&twitter=Wahyuhp14&pattern=leaf&colorPattern=%23eaeaea)
 
 
 <!-- -->
 ### Welcome<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <!-- Perkenalkan nama saya **Wahyu Hidayatulloh Pamungkas**. -->
-Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 22 y.o Coder
+Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 23 y.o Coder
 
 - 🔭 I’m currently working on Home🏠
 
@@ -18,7 +18,7 @@ Hi. I'm Wahyu, My Fullname is **Wahyu Hidayatulloh Pamungkas**, I'm an 22 y.o Co
   - NodeJS
 
 
-- 📫 How to reach me: Instagram
+- 📫 How to reach me: Instagram, LinkedId, Twitter
 - ⚡ Fun fact: -
 <br/>
 
